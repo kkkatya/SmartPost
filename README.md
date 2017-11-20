@@ -20,6 +20,7 @@ This project is build with:
 * Photon (Particle) - electrical base
 * Several sensors - to give conditions and triggers for Photon
 * Several code - to make things run
+* Mailgun API - for sending messages
 
 ## Authors
 
