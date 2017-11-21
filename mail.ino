@@ -1,12 +1,3 @@
-void setup() {
-
-}
-
-void loop() {
-    Particle.publish("mail", PRIVATE);
-    delay(1000000);
-}
-
 int led = 11;
 int sensor = A0;
 int button = 10;
